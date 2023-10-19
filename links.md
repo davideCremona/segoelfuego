@@ -10,5 +10,8 @@ can be relevant these articles:
 ***Fire Detection – Smoke and Heat Detection Systems*** This article spoke about Fire-detection systems listing the types and how these works.
 It's relevant to know that there are smoke, heat, optical, aspired systems.
 
-***Case study II - Evaluating DNN applications in smart O&G industry*** this article talk about that used Neural network to detect light variations on frames to detect fire in oil and gas industry 
+***Case study II - Evaluating DNN applications in smart O&G industry*** This article talk about using Neural network to detect light variations on frames to detect fire in oil and gas industry 
 - https://www.mdpi.com/2071-1050/14/19/12270 not read, This is a paper that reviews different methods to detect and monitor wildfires
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9100504/ not read, Recent Advances in Sensors for Fire Detection
+
